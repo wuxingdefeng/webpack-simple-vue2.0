@@ -10,9 +10,12 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App11'
+      msg: 'Welcome to Your Vue.js App23'
     }
-  }
+  },
+    methods:{
+
+    }
 }
 </script>
 
